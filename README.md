@@ -1,2 +1,2 @@
 # kitti_to_yolo
-KITTI TO YOLO
+Convert KITTI format TO YOLO format
